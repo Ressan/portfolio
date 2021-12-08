@@ -1,18 +1,18 @@
-title: Abhishek Nagekar
-description: Web & Security Engineer
-site_title: '@abhn - Abhishek Nagekar'
+title: Taleb Nasser
+description: étudiant à l'ECE Paris - 2e année Bachelor 
+site_title: '@ressan - Taleb Nasser'
 
 # Build settings
 markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: abhn
-blog_url: https://www.nagekar.com
-email: abhishek@nagekar.com
-keybase_username: abhn
-twitter_username: abhn_
-reddit_username: abhn
+github_username: ressan
+blog_url: https://ressan.github.io/Own-Website/
+email: nassertaleb@hotmail.Fr
+keybase_username: XXX
+twitter_username: XXX
+reddit_username: XXX
 
 # absolute or relative
 profile_picture: assets/images/pp.jpg
