@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['diy','electronic']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-blanc.png',
             link: '',
             title: 'QWIRKLE',
             demo: false,
@@ -109,6 +109,8 @@ let render_projects = (slug) => {
             description: "Watch Origin. A brand.",
             categories: ['diy','webdev']
         },
+        /*
+        {
         {
             image: 'assets/images/',
             link: '',
@@ -118,8 +120,6 @@ let render_projects = (slug) => {
             description: "",
             categories: ['']
         },
-        /*
-        {
             image: 'assets/images/koalamate.png',
             link: 'https://github.com/abhn/koalamate',
             title: 'Koalamate',
