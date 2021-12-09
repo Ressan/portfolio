@@ -11,6 +11,124 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
+            image: 'assets/images/logo-djack.jpg',
+            link: 'https://instagram.com/djack_robot',
+            title: 'Djack - ECE Cup 2019',
+            demo: false,
+            technologies: ['Arduino','Blynk'],
+            description: "A piloted robot which have to move containers on a board!",
+            categories: ['DIY','Electronics']
+        },
+        {
+            image: 'assets/images/logo-BUTAMA.jpg',
+            link: 'https://instagram.com/butama_1125',
+            title: 'BUTAMA - ECE Cup 2020',
+            demo: false,
+            technologies: ['Arduino','Blynk'],
+            description: "Another piloted robot which have to move containers on a board!",
+            categories: ['DIY','Electronics']
+        },
+        {
+            image: 'assets/images/',
+            link: '',
+            title: 'QWIRKLE',
+            demo: false,
+            technologies: ['C'],
+            description: "A board game develop into a cmd interface",
+            categories: ['Game']
+        },
+        {
+            image: 'assets/images/logo-SCRABBLE.png',
+            link: '',
+            title: 'SCRABBLE',
+            demo: false,
+            technologies: ['C'],
+            description: "You know what it is. Same, but my version",
+            categories: ['Game']
+        },
+        {
+            image: 'assets/images/logo-JurassicTower.jpg',
+            link: '',
+            title: 'Jurassic Tower',
+            demo: false,
+            technologies: ['C','Allegro'],
+            description: "A tower defense type game. Protect your food! ",
+            categories: ['Game']
+        },
+        {
+            image: 'assets/images/',
+            link: '',
+            title: 'Le Saboteur',
+            demo: false,
+            technologies: ['C','Allegro'],
+            description: "A card game with aim to reach the gold in a mine!",
+            categories: ['Game']
+        },
+        {
+            image: 'assets/images/',
+            link: '',
+            title: 'Cardiofréquencemètre',
+            demo: false,
+            technologies: ['Arduino'],
+            description: "An electronic development of this useful tool",
+            categories: ['Electronics']
+        },
+        {
+            image: 'assets/images/',
+            link: '',
+            title: 'Synthétiseur',
+            demo: false,
+            technologies: ['Arduino','Processing 3'],
+            description: "Virtual and physic creation of a sound making machine",
+            categories: ['Electronics']
+        },
+        {
+            image: 'assets/images/',
+            link: 'https://ressan.github.io/portfolio/',
+            title: 'This Website!',
+            demo: false,
+            technologies: ['HTML','CSS','Jekyll'],
+            description: "A portfolio about my projects and me",
+            categories: ['WebDev']
+        },
+        {
+            image: 'assets/images/',
+            link: 'https://ressan.github.io/portfolio/',
+            title: 'MMTN',
+            demo: false,
+            technologies: ['HTML','CSS'],
+            description: "My website used to learn more about html, css and WebDev overall.. Check it out some time to see updates",
+            categories: ['WebDev']
+        },
+        {
+            image: 'assets/images/',
+            link: '',
+            title: 'WO',
+            demo: false,
+            technologies: ['HTML','CSS','JS'],
+            description: "Watch Origin. A brand.",
+            categories: ['WebDev']
+        },
+        {
+            image: 'assets/images/',
+            link: '',
+            title: '',
+            demo: false,
+            technologies: [''],
+            description: "",
+            categories: ['']
+        },
+        /*
+        {
+            image: 'assets/images/koalamate.png',
+            link: 'https://github.com/abhn/koalamate',
+            title: 'Koalamate',
+            demo: false,
+            technologies: ['Electron', 'Javascript'],
+            description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
+            categories: ['native']
+        },
+        {
             image: 'assets/images/mentors.jpg',
             link: 'https://github.com/abhn/Mporter',
             title: 'Mporter',
@@ -154,6 +272,7 @@ let render_projects = (slug) => {
             description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
             categories: ['native']
         },
+        */
     ]
 
     let projects = [];
