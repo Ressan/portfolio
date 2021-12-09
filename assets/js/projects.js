@@ -83,7 +83,7 @@ let render_projects = (slug) => {
             categories: ['electronic']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-portfolio.png',
             link: 'https://ressan.github.io/portfolio/',
             title: 'This Website!',
             demo: false,
