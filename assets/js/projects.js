@@ -56,7 +56,7 @@ let render_projects = (slug) => {
             categories: ['game']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-saboteur.png',
             link: '',
             title: 'Le Saboteur',
             demo: false,
@@ -65,7 +65,7 @@ let render_projects = (slug) => {
             categories: ['game']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-cardiofrequencemetre.png',
             link: '',
             title: 'Cardiofréquencemètre',
             demo: false,
@@ -74,9 +74,9 @@ let render_projects = (slug) => {
             categories: ['electronic']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-synthetiseur.png',
             link: '',
-            title: 'Synthétiseur',
+            title: 'Synthétiseur Analogique',
             demo: false,
             technologies: ['Arduino','Processing 3'],
             description: "Virtual and physic creation of a sound making machine",
@@ -92,7 +92,7 @@ let render_projects = (slug) => {
             categories: ['diy','webdev']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-mmtn.png',
             link: 'https://ressan.github.io/portfolio/',
             title: 'MMTN',
             demo: false,
@@ -101,7 +101,7 @@ let render_projects = (slug) => {
             categories: ['diy','webdev']
         },
         {
-            image: 'assets/images/',
+            image: 'assets/images/logo-blanc.png',
             link: '',
             title: 'WO',
             demo: false,
