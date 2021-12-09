@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Arduino','Blynk'],
             description: "A piloted robot which have to move containers on a board!",
-            categories: ['DIY','Electronics']
+            categories: ['diy','electronic']
         },
         {
             image: 'assets/images/logo-BUTAMA.jpg',
@@ -26,7 +26,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Arduino','Blynk'],
             description: "Another piloted robot which have to move containers on a board!",
-            categories: ['DIY','Electronics']
+            categories: ['diy','electronic']
         },
         {
             image: 'assets/images/',
@@ -35,7 +35,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C'],
             description: "A board game develop into a cmd interface",
-            categories: ['Game']
+            categories: ['game']
         },
         {
             image: 'assets/images/logo-SCRABBLE.png',
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C'],
             description: "You know what it is. Same, but my version",
-            categories: ['Game']
+            categories: ['game']
         },
         {
             image: 'assets/images/logo-JurassicTower.jpg',
@@ -53,7 +53,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C','Allegro'],
             description: "A tower defense type game. Protect your food! ",
-            categories: ['Game']
+            categories: ['game']
         },
         {
             image: 'assets/images/',
@@ -62,7 +62,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['C','Allegro'],
             description: "A card game with aim to reach the gold in a mine!",
-            categories: ['Game']
+            categories: ['game']
         },
         {
             image: 'assets/images/',
@@ -71,7 +71,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Arduino'],
             description: "An electronic development of this useful tool",
-            categories: ['Electronics']
+            categories: ['electronic']
         },
         {
             image: 'assets/images/',
@@ -80,7 +80,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['Arduino','Processing 3'],
             description: "Virtual and physic creation of a sound making machine",
-            categories: ['Electronics']
+            categories: ['electronic']
         },
         {
             image: 'assets/images/',
@@ -89,7 +89,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['HTML','CSS','Jekyll'],
             description: "A portfolio about my projects and me",
-            categories: ['WebDev']
+            categories: ['diy','webdev']
         },
         {
             image: 'assets/images/',
@@ -97,8 +97,8 @@ let render_projects = (slug) => {
             title: 'MMTN',
             demo: false,
             technologies: ['HTML','CSS'],
-            description: "My website used to learn more about html, css and WebDev overall.. Check it out some time to see updates",
-            categories: ['WebDev']
+            description: "My website used to learn more about html, css and webdev overall.. Check it out some time to see updates",
+            categories: ['diy','webdev']
         },
         {
             image: 'assets/images/',
@@ -107,7 +107,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['HTML','CSS','JS'],
             description: "Watch Origin. A brand.",
-            categories: ['WebDev']
+            categories: ['diy','webdev']
         },
         {
             image: 'assets/images/',
@@ -232,7 +232,7 @@ let render_projects = (slug) => {
             link: 'https://www.nagekar.com/2018/05/reusing-old-laptop-lcd-panel.html',
             title: 'Reusing Old LCD Panel',
             demo: false,
-            technologies: ['DIY'],
+            technologies: ['diy'],
             description: "Reusing a dead laptop's LCD panel as a secondary monitor.",
             categories: ['diy']
         },
@@ -259,7 +259,7 @@ let render_projects = (slug) => {
             link: 'https://www.nagekar.com/2016/01/how-to-private-local-cloud-using-raspberrypi.html',
             title: 'Local Cloud - Raspberry Pi',
             demo: false,
-            technologies: ['FTP', 'DIY'],
+            technologies: ['FTP', 'diy'],
             description: "Host a local cloud server with a Raspberry Pi and a spare hard disk. Access data instantaneously on any device on the network.",
             categories: ['diy']
         },
